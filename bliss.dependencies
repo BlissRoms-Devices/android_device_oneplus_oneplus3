@@ -1,0 +1,31 @@
+[
+  {
+    "remote": "github",
+    "repository": "acuicultor/device_oneplus_oneplus3",
+    "target_path": "device/oneplus/oneplus3",
+    "revision": "n7.1-caf-dev0"
+  },
+  {
+    "remote": "github",
+    "repository": "acuicultor/device_qcom_msm8996",
+    "target_path": "device/oneplus/oneplus3",
+    "revision": "n7.1-caf-dev0"
+  },
+   {
+    "remote": "github",
+    "repository": "acuicultor/device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "n7.1-caf-dev0"
+  },
+   {
+    "remote": "github",
+    "repository": "acuicultor/device_oppo_common",
+    "target_path": "device/oppo/common",
+    "revision": "n7.1-caf-dev0"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch": "cm-14.1"
+  }
+]
