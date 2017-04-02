@@ -23,7 +23,7 @@ $(call inherit-product, device/oneplus/oneplus3/device.mk)
 # Inherit some common Bliss stuff.
 $(call inherit-product, vendor/bliss/config/common.mk)
 
-PRODUCT_NAME := Bliss_oneplus3
+PRODUCT_NAME := bliss_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
