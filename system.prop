@@ -155,3 +155,6 @@ persist.sys.usb.config=mtp,adb
 
 # Google assistant
 ro.opa.eligible_device=true
+
+#fix bliss build
+ro.product.model=oneplus3
