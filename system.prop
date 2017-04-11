@@ -34,6 +34,7 @@ qcom.bluetooth.soc=rome
 
 # Camera
 persist.camera.imglib.fddsp=1
+persist.camera.HAL3.enabled=0
 persist.camera.llc=1
 persist.camera.llnoise=1
 camera.hal1.packagelist=com.skype.raider,com.whatsapp,com.google.android.GoogleCamera
