@@ -31,3 +31,6 @@ PRODUCT_BRAND := OnePlus
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 TARGET_VENDOR := oneplus
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.product.model=oneplus3
