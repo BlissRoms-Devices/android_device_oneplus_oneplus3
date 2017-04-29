@@ -33,6 +33,9 @@ BOARD_VENDOR := oneplus
 # Assertions
 TARGET_OTA_ASSERT_DEVICE := OnePlus3,oneplus3,OnePlus3T,oneplus3t
 
+# Use Snapdragon LLVM, if available
+TARGET_USE_SDCLANG := true
+
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := msm8996
 TARGET_NO_BOOTLOADER := true
